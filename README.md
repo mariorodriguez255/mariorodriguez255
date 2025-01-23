@@ -1,5 +1,4 @@
-# ¡Hola! Mi nombre es Mario Rodríguez 👋
-
+# <img src="srcimglogo.png" width=10% align=right /> ¡Hola! Mi nombre es Mario Rodríguez 👋
 **Estudiante de Desarrollo Multiplataforma y Tecnologías Web** 💻
 
 Tengo 18 años y actualmente me encuentro cursando una formación en **Desarrollo Multiplataforma**. Mi pasión por la tecnología y el desarrollo web me ha llevado a explorar y aprender diversas herramientas y lenguajes de programación, los cuales aplico en proyectos personales y académicos.
