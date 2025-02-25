@@ -36,13 +36,5 @@ Actualmente, me enfoco en adquirir conocimientos en las siguientes tecnologías:
 Para llevar a cabo mis proyectos, utilizo las siguientes herramientas y entornos de desarrollo:
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-
-## 🌱 Objetivos Futuros
-
-Mi objetivo principal es seguir creciendo como desarrollador, especializándome en el desarrollo web y multiplataforma.
