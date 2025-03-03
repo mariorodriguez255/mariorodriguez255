@@ -17,7 +17,7 @@ Puedes contactarme a través de los siguientes medios:
 
 ---
 
-## 💡 Tecnologías y Herramientas
+## 💡 Tecnologías y Herramientas.
 
 ### 🚀 Lenguajes y tecnologías que estoy aprendiendo
 
