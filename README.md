@@ -19,7 +19,7 @@ Puedes contactarme a través de los siguientes medios:
 
 ## 💡 Tecnologías y Herramientas.
 
-### 🚀 Lenguajes y tecnologías que estoy aprendiendo
+### 🚀 Lenguajes y tecnologías que estoy aprendiendo.
 
 Actualmente, me enfoco en adquirir conocimientos en las siguientes tecnologías:
 
