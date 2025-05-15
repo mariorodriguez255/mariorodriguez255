@@ -1,4 +1,4 @@
-# <img src="srcimglogo.png" width="10%" align="right" /> Mario Rodríguez | Frontend Developer & AI Explorer 🚀
+# <img src="srcimglogo.png" width="10%" align="right" /> Mario Rodríguez | Frontend Developer & AI Explorer. 🚀
 
 <div align="center">
   
