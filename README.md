@@ -7,23 +7,14 @@
 
 ## 👨‍💻 Sobre mí
 
-```typescript
-interface Developer {
-  age: number;
-  location: string;
-  studies: string;
-  passions: string[];
-  learning: string[];
-  aiSkills: string[];
-}
-
-const mario: Developer = {
-  age: 19,
-  location: "España",
-  studies: "Desarrollo de Aplicaciones Multiplataforma",
-  passions: ["Frontend Development", "UI/UX", "AI Integration"],
-  learning: ["React", "TypeScript", "JavaScript", "Java", "SQL"],
-  aiSkills: ["Prompt Engineering", "AI-Enhanced Development"]
+```javascript
+const mario = {
+ age: 19,
+ location: "España",
+ studies: "Desarrollo de Aplicaciones Multiplataforma",
+ passions: ["Frontend Development", "UI/UX", "AI Integration"],
+ learning: ["React", "TypeScript", "JavaScript", "Java", "SQL"],
+ aiSkills: ["Prompt Engineering", "AI-Enhanced Development"]
 };
 ```
 
