@@ -22,7 +22,7 @@ Actualmente me encuentro explorando el ecosistema del desarrollo web moderno con
 
 ## 🔍 Tech Stack & Herramientas
 
-### 🧠 Tecnologías que domino y estoy aprendiendo
+### 🧠 Tecnologías que estoy aprendiendo
 
 <div align="center">
   
