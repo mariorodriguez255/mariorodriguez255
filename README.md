@@ -1,4 +1,4 @@
-# <img src="srcimglogo.png" width="10%" align="right" /> Mario Rodríguez | Frontend Developer Student & AI Explorer. 🚀
+# <img src="srcimglogo.png" width="10%" align="right" /> Mario Rodríguez | Frontend Developer & AI Student. 🚀
 
 <div align="center">
   
@@ -6,17 +6,6 @@
 </div>
 
 ## 👨‍💻 Sobre mí
-
-```javascript
-const mario = {
- age: 19,
- location: "España",
- studies: "Desarrollo de Aplicaciones Multiplataforma",
- passions: ["Frontend Development", "UI/UX", "AI Integration"],
- learning: ["React", "TypeScript", "JavaScript", "Java", "SQL"],
- aiSkills: ["Prompt Engineering", "AI-Enhanced Development"]
-};
-```
 
 Actualmente me encuentro explorando el ecosistema del desarrollo web moderno con enfoque en **Frontend** y **AI-powered** solutions. Mi objetivo es crear experiencias digitales intuitivas que combinen tecnologías de vanguardia con diseño centrado en el usuario, aprovechando el potencial de la inteligencia artificial para potenciar mi desarrollo como programador.
 
